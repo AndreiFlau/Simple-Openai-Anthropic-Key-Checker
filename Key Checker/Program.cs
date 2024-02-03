@@ -55,7 +55,4 @@ while(continueKey == "y" || continueKey == "Y" || continueKey == ""){
 	{
 		Console.WriteLine("Invalid API key");
 	}
-
-	Console.WriteLine("Do you want to continue? (y/n)");
-	continueKey = Console.ReadLine();
 }
